@@ -2,7 +2,7 @@
 ## Repository
     helm repo add nenych https://nenych.github.io/helm-charts/
 
-## Add a new repository
+## Add a new chart
 - Add charts to the charts directory.
 - Commit a new chart.
 - Package a new chart:
